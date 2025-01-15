@@ -1,1 +1,3 @@
-# coulor-counter-better
+# coulor-counter-better 
+
+Just run the file.
